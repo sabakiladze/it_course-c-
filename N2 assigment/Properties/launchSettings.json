@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "N2 assigment": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
