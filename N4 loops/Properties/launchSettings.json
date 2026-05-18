@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "N4 loops": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
