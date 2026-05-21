@@ -1,0 +1,14 @@
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\bin\Debug\net8.0\leqcia 5 arrayes.exe
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\bin\Debug\net8.0\leqcia 5 arrayes.deps.json
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\bin\Debug\net8.0\leqcia 5 arrayes.runtimeconfig.json
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\bin\Debug\net8.0\leqcia 5 arrayes.dll
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\bin\Debug\net8.0\leqcia 5 arrayes.pdb
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.AssemblyInfoInputs.cache
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.AssemblyInfo.cs
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.csproj.CoreCompileInputs.cache
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.dll
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\refint\leqcia 5 arrayes.dll
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.pdb
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\leqcia 5 arrayes.genruntimeconfig.cache
+C:\Users\kilad\Desktop\c# projects\leqcia 5 arrayes\obj\Debug\net8.0\ref\leqcia 5 arrayes.dll

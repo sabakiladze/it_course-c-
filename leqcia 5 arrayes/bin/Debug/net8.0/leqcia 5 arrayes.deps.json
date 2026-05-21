@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "leqcia 5 arrayes/1.0.0": {
+        "runtime": {
+          "leqcia 5 arrayes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leqcia 5 arrayes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "leqcia 5 arrayes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
