@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "N6 strings": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
