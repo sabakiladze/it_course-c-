@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "N7 method and class": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
