@@ -11,8 +11,7 @@ public enum Country
 public enum Gender
 {
     Male,
-    Female,
-    Other
+    Female
 }
 
 public enum Contacts
