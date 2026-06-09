@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "10. C_sharp საშინ.დ.-კლასები3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

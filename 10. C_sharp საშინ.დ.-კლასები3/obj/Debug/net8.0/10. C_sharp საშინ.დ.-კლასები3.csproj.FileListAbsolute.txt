@@ -1,0 +1,14 @@
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\bin\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.exe
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\bin\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.deps.json
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\bin\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.runtimeconfig.json
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\bin\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.dll
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\bin\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.pdb
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.AssemblyInfoInputs.cache
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.AssemblyInfo.cs
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.csproj.CoreCompileInputs.cache
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.dll
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\refint\10. C_sharp საშინ.დ.-კლასები3.dll
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.pdb
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\10. C_sharp საშინ.დ.-კლასები3.genruntimeconfig.cache
+C:\Users\kilad\Desktop\c# projects\10. C_sharp საშინ.დ.-კლასები3\obj\Debug\net8.0\ref\10. C_sharp საშინ.დ.-კლასები3.dll
