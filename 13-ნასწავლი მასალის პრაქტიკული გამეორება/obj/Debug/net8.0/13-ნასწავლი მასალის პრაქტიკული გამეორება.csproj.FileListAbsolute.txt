@@ -1,0 +1,14 @@
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\bin\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.exe
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\bin\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.deps.json
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\bin\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.runtimeconfig.json
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\bin\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.dll
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\bin\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.pdb
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.AssemblyInfoInputs.cache
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.AssemblyInfo.cs
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.csproj.CoreCompileInputs.cache
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.dll
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\refint\13-ნასწავლი მასალის პრაქტიკული გამეორება.dll
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.pdb
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\13-ნასწავლი მასალის პრაქტიკული გამეორება.genruntimeconfig.cache
+C:\Users\kilad\Desktop\c# projects\13-ნასწავლი მასალის პრაქტიკული გამეორება\obj\Debug\net8.0\ref\13-ნასწავლი მასალის პრაქტიკული გამეორება.dll

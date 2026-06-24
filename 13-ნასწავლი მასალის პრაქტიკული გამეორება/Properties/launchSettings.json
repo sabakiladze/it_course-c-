@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "13-ნასწავლი მასალის პრაქტიკული გამეორება": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

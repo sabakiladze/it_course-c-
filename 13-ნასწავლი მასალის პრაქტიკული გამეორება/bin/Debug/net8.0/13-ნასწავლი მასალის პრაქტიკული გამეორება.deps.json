@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "13-ნასწავლი მასალის პრაქტიკული გამეორება/1.0.0": {
+        "runtime": {
+          "13-ნასწავლი მასალის პრაქტიკული გამეორება.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13-ნასწავლი მასალის პრაქტიკული გამეორება/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
